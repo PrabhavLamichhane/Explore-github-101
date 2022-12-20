@@ -6,5 +6,4 @@ const app = express();
 // mount all routes on /api path
 app.use('/api', routes);
 
-
 module.exports = app;
