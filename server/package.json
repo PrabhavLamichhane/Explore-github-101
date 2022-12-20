@@ -1,0 +1,14 @@
+{
+    "name": "explore-github",
+    "version": "1.0.0",
+    "description": "Application which allows users to explore github",
+    "main": "index.js",
+    "author": "Prabhav lamichhane",
+    "license": "MIT",
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "dependencies": {
+        "express": "^4.18.2"
+    }
+}
